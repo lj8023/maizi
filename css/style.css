@@ -1,0 +1,187 @@
+.navbar-default .navbar-brand {
+  color: #40d2b1;
+  font-weight: bold;
+  font-size: 26px;
+  font-family: "微软雅黑";
+  height: 70px;
+  line-height: 35px;
+}
+.navbar-default .navbar-nav > li > a {
+  font-size: 16px;
+  font-weight: bold;
+  height: 70px;
+  line-height: 35px;
+}
+.navbar-toggle {
+  margin-top: 18px;
+}
+#home {
+  background: url(../img/home-bg.jpg) no-repeat;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  margin-top: 70px;
+  width: 100%;
+}
+#home .zz {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 90px 0;
+}
+#home h1 {
+  font-weight: bold;
+  font-family: "微软雅黑";
+}
+#home p {
+  margin-top: 30px;
+  line-height: 35px;
+}
+#home img {
+  margin-top: 30px;
+}
+#luntan {
+  padding: 46px;
+  text-align: center;
+}
+#luntan img {
+  margin: 0 auto;
+  padding: 20px 0;
+}
+#luntan h3 {
+  font-weight: bold;
+  font-family: "微软雅黑";
+}
+#luntan .col-md-4:hover {
+  background: #f8f8f8;
+}
+#html {
+  background: #f8f8f8;
+}
+#html,
+#boot {
+  padding: 80px 0;
+}
+#html h2,
+#boot h2 {
+  font-weight: bold;
+  font-family: "微软雅黑";
+}
+#html P,
+#boot P {
+  line-height: 40px;
+}
+#html P span,
+#boot P span {
+  background: #40d2b1;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  margin-right: 20px;
+  color: #fff;
+}
+#new {
+  text-align: center;
+  background: #f8f8f8;
+  padding-bottom: 80px;
+}
+#new h2 {
+  font-weight: bold;
+  font-family: "微软雅黑";
+  padding-top: 90px;
+  padding-bottom: 60px;
+}
+#new .list {
+  background: #fff;
+  margin-bottom: 20px;
+}
+#new .list img {
+  margin: 0 auto;
+}
+#new .list a {
+  margin: 20px 0 30px 0;
+  border: 1px solid #40d2b1;
+  border-radius: 0;
+  padding: 10px 40px;
+  font-size: 12px;
+  color: #40d2b1;
+}
+#new .list a:hover {
+  background: #40d2b1;
+  color: #fff;
+}
+#app {
+  padding: 80px 0;
+}
+#app h2 {
+  font-weight: bold;
+  font-family: "微软雅黑";
+  padding-bottom: 40px;
+}
+#app p {
+  padding-bottom: 20px;
+}
+#app a {
+  color: #fff;
+  background: #40d2b1;
+  border: 0;
+  border-radius: 0;
+  padding: 10px 30px;
+  margin-bottom: 50px;
+}
+#my {
+  width: 100%;
+  background: url(../img/contact-bg.png) no-repeat;
+  background-size: cover;
+}
+#my .zzc {
+  background: rgba(0, 0, 0, 0.7);
+  width: 100%;
+  height: 100%;
+  padding: 85px 0;
+}
+#my .zzc h3 {
+  color: #fff;
+  font-weight: bold;
+  font-family: "微软雅黑";
+}
+#my .zzc h3 span {
+  margin-right: 20px;
+}
+#my .zzc p {
+  color: #fff;
+  margin-bottom: 30px;
+}
+#my .zzc p span {
+  margin-right: 10px;
+}
+#my .zzc input {
+  height: 50px;
+  border-radius: 0;
+  margin-bottom: 20px;
+}
+#my .zzc textarea {
+  height: 100px;
+  border-radius: 0;
+  margin-bottom: 20px;
+}
+#my .zzc button {
+  text-align: center;
+  border-radius: 0;
+  background: #3fd1b0;
+  font-weight: bold;
+  color: #fff;
+  border: 0;
+  height: 50px;
+  padding: 0 150px;
+}
+#my .zzc button:hover {
+  background: #fff;
+  color: #3fd1b0;
+}
+.footer {
+  text-align: center;
+  padding: 25px 0;
+}
